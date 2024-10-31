@@ -1,0 +1,1 @@
+[18-Oct-2024 15:09:31 UTC] Erro de evento de reagendamento do cron para o gancho: wp_privacy_delete_old_export_files, código de erro: could_not_set, mensagem de erro: Não foi possível salvar a lista de evento do cron, dados: {"schedule":"hourly","args":[],"interval":3600}
